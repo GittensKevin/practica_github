@@ -1,16 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ lona
+# practica_github
+Jose Maria Lona
+
 # claudio intenta
 
-
-
 claudio
-=======
+
 # practica_github
 Gittens Kevin Enrique
->>>>>>> gittens
-=======
-# practica_github
 
+# practica_github
 Sergio Vilte / Sergio910
->>>>>>> origin/sergio
+ origin/sergio
+ main
